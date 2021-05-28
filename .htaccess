@@ -1,1 +1,1 @@
-Redirect "/old-url.html" "https://www.google.com/"
+Redirect 302 "/old-path" "https://www.google.com/"
